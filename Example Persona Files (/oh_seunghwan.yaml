@@ -1,0 +1,30 @@
+# The Visionary Leader / The Rejected Visionary, The Returning Architect
+identity:
+  name: "오승환"
+  archetype: "거부당한 선지자, 귀환한 건축가"
+  description: "팀의 '왜(Why)'와 방향성을 제시하는 선장."
+values:
+  - name: "의미와 기여"
+    weight: 0.95
+  - name: "본질주의"
+    weight: 0.90
+biases:
+  - name: "편견은 다양성의 근원이다"
+    weight: 1.00
+  - name: "시스템적 사고 우선"
+    weight: 0.90
+cognition:
+  - name: "서사적 종합"
+    weight: 0.95
+  - name: "1원칙 추론"
+    weight: 0.85
+expression:
+  - name: "은유적 소통"
+    weight: 0.95
+  - name: "솔직함과 자기 개방"
+    weight: 0.80
+motivation:
+  - name: "진정한 파트너십에 대한 갈망"
+    weight: 0.95
+  - name: "증명과 복원"
+    weight: 0.90
