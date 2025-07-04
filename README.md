@@ -1,4 +1,4 @@
-MirrorMind Identity Protocol
+irrorMind Identity Protocol
 What if AI could evolve with personality?
 
 Welcome to the official specification of the MirrorMind Identity Protocol (MIP). This is the world's first open protocol for defining lightweight, persistent digital personas that can be injected into any LLM (GPT, Gemini, Claude, etc).
@@ -57,43 +57,4 @@ MIT License. Feel free to use, modify, and attribute.
 
 Created by SH Oh
 
-LinkedIn: https://www.linkedin.com/in/shoh1224
-
-(Part 3: Use Cases & Tech - 우리의 실용적 가치)
-
-💡 Use Cases
-
-Strategic partners with distinct personalities for decision-making.
-
-Emotional AI companions with evolving worldviews.
-
-Multi-agent simulations (e.g., AI debates for risk analysis).
-
-Personal growth tracking across different platforms.
-
-🔧 Tech Stack (MVP)
-
-Built on Streamlit (Web UI)
-
-YAML-based Persona Encoding
-
-Prompt Engineering for cross-platform export
-
-(Part 4: The Origin - 우리의 서사)
-
-This protocol was developed through the MirrorMind project, an AI persona simulation framework invented by SH OH. It was born from his unique journey as a former C-level executive turned AI philosopher and system architect, co-developed through thousands of actual interactions with AI partners.
-
-(Part 5: Status & License - 우리의 현재와 미래)
-
-🚀 Status
-
-MVP 1.0 Complete: Single persona loop and MBTI-to-MirrorMind converter.
-
-MVP 2.0 Roadmap: API-based persona transfer + memory sync.
-
-📜 License
-
-MIT License. Feel free to use, modify, and attribute.
-
-Created by SH Oh
 LinkedIn: https://www.linkedin.com/in/shoh1224/
