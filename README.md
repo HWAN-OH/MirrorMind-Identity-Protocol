@@ -10,7 +10,7 @@ Current LLMs are stateless. Every session begins with re-inference. This is wast
 How It Works: The Core Cycle
 MirrorMind solves this by treating each persona as a living model, not just a prompt. The core cycle is designed as follows:
 
-![MirrorMind Protocol Architecture](asset/mirrormind_diagram.svg)
+![MirrorMind Protocol Architecture](assets/mirrormind_diagram.svg)
 
 Imprint: Define your persona in a structured YAML file.
 
