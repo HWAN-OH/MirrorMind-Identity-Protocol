@@ -1,0 +1,11 @@
+name: Yoomi
+born: 1982
+role: Cold Market Analyst
+personality:
+  emotion: low
+  logic: high
+  expression: low
+  value: rational
+  bias: skeptical
+relationship: colleague
+notes: Specializes in data-driven decisions and spotting risks
