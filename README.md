@@ -12,7 +12,7 @@ Current LLMs are stateless. Every session begins with re-inference. This is wast
 
 ### 🧭 **MirrorMind Protocol Overview**
 
-![MirrorMind Protocol](assets/mirrormind_protocol_diagram_fixed.svg)
+![MirrorMind Protocol](assets/mirrormind_protocol_diagram.png)
 
 The diagram above illustrates the end-to-end flow of how MirrorMind operates — from identity imprinting to external exploration, internalization, and lightweight local reaction.
 
