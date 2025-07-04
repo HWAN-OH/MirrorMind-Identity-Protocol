@@ -1,0 +1,23 @@
+digraph {
+	rankdir=LR size=10
+	User [label="👤 User"]
+	Imprint [label="Imprint
+(YAML + Prompt)"]
+	Persona [label="🧠 MirrorMind Persona"]
+	LLMs [label="🌐 GPT / Claude / Gemini"]
+	Report [label="📥 Report
+(Feedback Summary)"]
+	Evolve [label="🔄 Evolve Engine
+(Identity Update)"]
+	Compress [label="📦 Compress & Versioning"]
+	Local [label="📱 Local Reaction Core
+(Mini Reactor)"]
+	User -> Imprint
+	Imprint -> Persona
+	Persona -> LLMs
+	LLMs -> Report
+	Report -> Evolve
+	Evolve -> Compress
+	Compress -> Local
+	Local -> Persona [label=Internalize style=dashed]
+}
